@@ -8,6 +8,6 @@
         Title="Patch Loader" Height="135" Width="240">
     <Grid>
         <Button Height="60" Width="125">Apply Patch</Button>
-        <Label Content="Power by moshui" HorizontalAlignment="Center" Margin="0,90,0,0" VerticalAlignment="Bottom" Width="240"/>
+        <TextBlock Margin="0,104,0,0"><Hyperlink>Powered By moshui.Code on Github</Hyperlink></TextBlock>
     </Grid>
 </Window>
